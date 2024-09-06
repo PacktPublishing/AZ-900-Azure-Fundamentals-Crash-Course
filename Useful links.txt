@@ -1,6 +1,0 @@
-httpslearn.microsoft.comen-uscredentialscertificationsresourcesstudy-guidesaz-900
-https://www.starttest.com/ITDVersions/22.0.0.0/ITDStart.aspx?SVC=915ee811-ed11-4cd0-a2e5-b59fb0183461
-https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/practice/assessment?assessment-type=practice&assessmentId=23
-https://learn.microsoft.com/en-us/credentials/certifications/frequently-asked-questions
-https://learn.microsoft.com/en-us/credentials/certifications/register-schedule-exam#step-by-step-exam-registration-instructions
-https://learn.microsoft.com/en-us/credentials/support/retake-policy#microsoft-certification-exam-retake-policy-for-role-based-speciality-and-fundamentals-exams
